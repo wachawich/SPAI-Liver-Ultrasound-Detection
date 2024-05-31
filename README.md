@@ -3,7 +3,7 @@ Super AI engineer ss4 level2
 
 
 # Resource
-**Model YoLov10** -> [Github](https://github.com/THU-MIG/yolov10)
+**Model YoLov10** -> [Github](https://github.com/THU-MIG/yolov10) <br>
 this hackathon using resource A100*4 with **LANTA!**
 
 # Pipe Line
