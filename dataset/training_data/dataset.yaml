@@ -1,0 +1,11 @@
+names:
+- 0: FFC
+- 1: FFS
+- 2: HCC
+- 3: cyst
+- 4: hemangioma
+- 5: dysplastic
+- 6: CCA
+nc: 7
+train: images/train/
+val: images/val/
