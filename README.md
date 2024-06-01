@@ -46,4 +46,4 @@ this hackathon using resource A100*4 with **LANTA!**
 |YOLOv10x     |   50   |   Normal + <br> Generate Data|Usin Glare Reduction on mobile image |0.17194|0.18321|
 |YOLOv10x     |   80   |   Normal + <br> Generate Data|Usin Glare Reduction on mobile image |`0.17566`|`0.18687`|
 
-```
+
